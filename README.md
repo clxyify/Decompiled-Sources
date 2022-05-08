@@ -1,5 +1,5 @@
-# Leaked-Sources
+# Decompiled-Sources
 
-Leaked sources i've decompiled and found on my Downloads folder.
+Decompiled sources i've decompiled and found on my Downloads folder.
 
-(Includes some code of the original project, this is Psuedocode)!
+Commented for better understanding, and also re-writted functions.
