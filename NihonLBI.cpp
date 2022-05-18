@@ -102,7 +102,7 @@ int StartAddress_0()//start up the injection
   CreateThread(0, 0, sub_10051898, 0, 0, 0);//create pipe
   v19 = &v12;
   sub_1005121C(//execute code
-    "game.StarterGui:SetCore('SendNotification', { Title = 'Nihon'; Text = 'Injection Successful, Thanks For Using Nihon\nFUCKED BY IDA AND CLXYIFY BITCH'"
+    "game.StarterGui:SetCore('SendNotification', { Title = 'Nihon'; Text = 'Injection Successful, Thanks For Using Nihon\nlol'"
     "; Icon = 'rbxassetid://5888290650';  Duration = 15; })");//i hate messages
   sub_10051D34(dword_10114984, v12);//idk
   v18 = 0;//idk
